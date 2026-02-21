@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: headshot.JPG
+  image: kilimanjaro.jpg
   address: >
     <p>Burnside Basement</p>
     <p>McGill University</p>
