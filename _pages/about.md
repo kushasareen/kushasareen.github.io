@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: party2.jpg
+  image: headshot.JPG
   address: >
     <p>Burnside Basement</p>
     <p>McGill University</p>
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm starting a Master's at McGill/Mila in machine learning and am interested in a range of topics! I did my undergrad in  <a href = "https://www.physics.mcgill.ca/ugrads/honours-cs.html">Joint Honours Physics and Computer Science @ McGill</a>. Mostly, I hope to work on problems in generative modelling and representation learning. 
+I'm finishing my Master's at Mila/McGill in deep learning in the <a href = "https://rl.cs.mcgill.ca">Reasoning and Learning Lab</a>! I did my undergrad in <a href = "https://www.physics.mcgill.ca/ugrads/honours-cs.html">Joint Honours Physics and Computer Science @ McGill</a>. I'm interested broadly in reasoning,  generative modelling and representation learning. I’ve been fortunate to be advised by Siamak Ravanbakhsh and mentored by Rishabh Agarwal. I am currently a Visiting Researcher at ServiceNow AI Research working on agents.
 
 
 <!-- i study physics because one time when i was younger some little goober asked me "what falls faster, a tonne of feathers or a tonne of bricks?" 	so i told him my foot was about to fall on his face and then he goes "noo, they'd reach the ground at the same time cuz they weigh the same" and everybody laughed and since then i bid that i would never feel such embarrassment again. 
