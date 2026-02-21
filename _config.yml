@@ -7,8 +7,8 @@ first_name: Kusha
 middle_name:
 last_name: Sareen
 email: kushagra.sareen@mail.mcgill.ca
-description: # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Kusha Sareen's personal website. ML researcher at Mila/McGill.
 keywords: kusha, sareen, kushasareen, kusha-sareen, mcgill, kusha-mcgill, kusha-website, khadra, khadra-lab, physics-mcgill, physics, computer-science, finance, machine-learning  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -55,7 +55,7 @@ github_username: kushasareen # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: kushasareen # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: Ah1II-oAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -209,8 +209,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Sareen
+  first_name: [Kusha, K.]
 
   style: apa
   locale: en
